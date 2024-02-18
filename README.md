@@ -1,1 +1,4 @@
-#Go Auth JWT Go-Gin
+### Go Auth
+
+Authentication API with Golang gin-gonic and mongoDB
+
